@@ -1,0 +1,11 @@
+{
+  "name": "twice-bake-text",
+  "version": "1.0.0",
+  "description": "Converts SVG <text> to <path>s and preserve text semantics.",
+  "author": "Taylor “Tigt” Hunt",
+  "license": "ISC",
+  "main": "./twice-bake-text.js",
+  "dependencies": {
+    "xmldom": "^0.1.27"
+  }
+}

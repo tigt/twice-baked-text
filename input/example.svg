@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 210 63">
+  <defs>
+    <path id="a" d="M1 38c42 14 85-21 128-17 37 3 69 35 106 34 26-2 39-33 72-30"/>
+  </defs>
+  <text fill="#5700f4" stroke="gray"
+     font-weight="500" font-size="25" font-family="Futura,sans-serif">
+    <textPath xlink:href="#a">SVG <tspan font-style="italic" fill="#000">text</tspan></textPath>
+  </text>
+</svg>
